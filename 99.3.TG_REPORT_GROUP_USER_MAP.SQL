@@ -1,0 +1,8 @@
+
+
+INSERT INTO TG_REPORT_GROUP_USER_MAP
+  (GROUP_ID, USER_ID)
+VALUES
+  ('99999', 'admin');
+commit;
+
